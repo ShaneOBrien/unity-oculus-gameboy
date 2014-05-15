@@ -42,7 +42,7 @@ public class DefaultEmulatorManager : MonoBehaviour
 		ScreenRenderer.material.mainTexture = ((DefaultVideoOutput) Emulator.Video).Texture;
 
 		gameObject.audio.enabled = false;
-		StartCoroutine(LoadRom(Filename));
+		StartCoroutine(prepareToStart());
 	}
 
 	void Update()
@@ -62,19 +62,28 @@ public class DefaultEmulatorManager : MonoBehaviour
 			File.WriteAllBytes("./screenshot.png", screenshot);
 			Debug.Log("Screenshot saved.");
 		}
+
+		if (Input.GetKeyDown(KeyCode.Return))
+		{
+			
+		}
 	}
 
-
+	public IEnumerator prepareToStart()
+	{
+		yield return new WaitForSeconds(2);
+		StartCoroutine(LoadRom(Filename));
+	}
 
 	private IEnumerator LoadRom(string filename)
 	{
 		string path;
 #if UNITY_EDITOR || UNITY_STANDALONE_WIN
-		path = "file://" + Environment.CurrentDirectory + "\\Assets\\StreamingAssets\\" + filename;
+		path = "file://" + Environment.CurrentDirectory + "\\" + filename;
 #elif UNITY_WEBPLAYER
 		path = "./StreamingAssets/" + filename;
 #else
-		Debug.Log("I don't know where to find the rom on this platform.");
+		Debug.LogError("I don't know where to find the rom on this platform.");
 		yield break;
 #endif
 		Debug.Log("Loading rom at " + path);
@@ -85,8 +94,8 @@ public class DefaultEmulatorManager : MonoBehaviour
 		{
 			Emulator.LoadRom(www.bytes);
 			StartCoroutine(Run());
-		} else 
-			Debug.Log("Error during loading the rom.\n" + www.error);
+		} else
+			Debug.LogError("Error during loading the rom.\n" + www.error);
 	}
 
 	private IEnumerator Run()
