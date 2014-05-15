@@ -5,7 +5,7 @@ unity-oculus-gameboy
 
 You can check out takohi's gameboy emulator here: https://bitbucket.org/takohi/unitygb/wiki/Home
 
-You can download a build at my site http://shaneobrien.ie/prog/oculusGameboy.zip
+You can download a build at my site http://shaneobrien.ie/?page_id=639
 
 Ideas:
 
