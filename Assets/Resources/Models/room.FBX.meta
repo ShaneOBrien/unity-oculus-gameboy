@@ -1,0 +1,2381 @@
+fileFormatVersion: 2
+guid: 44433ff6d5ec16349b45637cb218403d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: '[NURBS Ficus 1]'
+    100002: ___
+    100004: ___
+    100006: ___
+    100008: ___01
+    100010: ___01
+    100012: ___02
+    100014: ___02
+    100016: ___03
+    100018: ___04
+    100020: ___04
+    100022: ___05
+    100024: ___06
+    100026: ___257
+    100028: ___258
+    100030: ___259
+    100032: ___260
+    100034: ___261
+    100036: ___271
+    100038: ___272
+    100040: ___278
+    100042: ___279
+    100044: ___280
+    100046: ___281
+    100048: ___283
+    100050: ___3
+    100052: ___313
+    100054: ___314
+    100056: ___315
+    100058: ___316
+    100060: ___317
+    100062: ___319
+    100064: ___320
+    100066: ___321
+    100068: ___322
+    100070: ___323
+    100072: ___324
+    100074: ___343
+    100076: ___344
+    100078: ___345
+    100080: ___347
+    100082: ___348
+    100084: ___349
+    100086: ___350
+    100088: ___351
+    100090: ___431
+    100092: ___432
+    100094: ___433
+    100096: ___434
+    100098: ___435
+    100100: ___436
+    100102: ___437
+    100104: ___438
+    100106: ___439
+    100108: ___440
+    100110: ___441
+    100112: ___442
+    100114: ___443
+    100116: ___444
+    100118: ___445
+    100120: ___446
+    100122: ___447
+    100124: ___448
+    100126: ___449
+    100128: ___450
+    100130: ___451
+    100132: ______
+    100134: ______
+    100136: ______
+    100138: ______
+    100140: ______
+    100142: ______
+    100144: ______
+    100146: ______
+    100148: ______01
+    100150: ______01
+    100152: ______01
+    100154: ______01
+    100156: ______1
+    100158: _________
+    100160: _________
+    100162: _________11111
+    100164: ____________
+    100166: Apple Red Delicious Bottom02
+    100168: Apple Red Delicious Stem02
+    100170: Apple Red Delicious02
+    100172: Arc10
+    100174: Arc11
+    100176: Arc12
+    100178: Arc13
+    100180: Box01
+    100182: Box01 1
+    100184: Box02
+    100186: Box03
+    100188: Box03 1
+    100190: Box04
+    100192: Box04 1
+    100194: Box05
+    100196: Box05 1
+    100198: Box06
+    100200: Box07
+    100202: Box07 1
+    100204: Box08
+    100206: Box08 1
+    100208: Box09
+    100210: Box09 1
+    100212: Box10
+    100214: Box10 1
+    100216: Box100
+    100218: Box101
+    100220: Box102
+    100222: Box103
+    100224: Box105
+    100226: Box106
+    100228: Box107
+    100230: Box108
+    100232: Box109
+    100234: Box11
+    100236: Box110
+    100238: Box12
+    100240: Box13
+    100242: Box14
+    100244: Box21
+    100246: Box22
+    100248: Box23
+    100250: Box25
+    100252: Box26
+    100254: Box33
+    100256: Box36
+    100258: Box37
+    100260: Box38
+    100262: Box42
+    100264: Box43
+    100266: Box44
+    100268: Box46
+    100270: Box49
+    100272: Box50
+    100274: Box96
+    100276: Box97
+    100278: Box98
+    100280: Box99
+    100282: Camera03
+    100284: Camera03.Target
+    100286: ChamferBox29
+    100288: ChamferBox30
+    100290: ChamferBox31
+    100292: ChamferBox32
+    100294: ChamferBox33
+    100296: ChamferBox34
+    100298: ChamferBox35
+    100300: ChamferBox36
+    100302: ChamferCyl02
+    100304: ChamferCyl03
+    100306: Cherry Bing Stem02
+    100308: Cherry Bing Stem03
+    100310: Cherry Bing02
+    100312: Cherry Bing03
+    100314: Circle01
+    100316: Circle04
+    100318: Circle05
+    100320: Circle06
+    100322: Circle07
+    100324: Circle08
+    100326: Circle09
+    100328: Circle09 1
+    100330: Circle10
+    100332: Circle10 1
+    100334: Circle11
+    100336: Circle11 1
+    100338: Circle12
+    100340: Circle12 1
+    100342: Circle13
+    100344: Circle14
+    100346: Circle15
+    100348: Circle16
+    100350: Circle17
+    100352: Circle17 1
+    100354: Circle18
+    100356: Circle18 1
+    100358: Circle19
+    100360: Circle19 1
+    100362: Circle21
+    100364: Circle22
+    100366: Circle23
+    100368: Circle24
+    100370: Circle25
+    100372: Circle26
+    100374: Circle27
+    100376: Circle28
+    100378: Circle29
+    100380: Circle31
+    100382: Circle52
+    100384: Circle53
+    100386: Circle54
+    100388: Circle55
+    100390: Circle56
+    100392: Circle57
+    100394: Circle58
+    100396: Circle59
+    100398: Cylinder01
+    100400: Cylinder07
+    100402: Cylinder08
+    100404: Cylinder09
+    100406: Cylinder10
+    100408: Cylinder129
+    100410: Cylinder130
+    100412: Cylinder131
+    100414: Cylinder132
+    100416: Cylinder23
+    100418: Cylinder24
+    100420: Cylinder25
+    100422: Cylinder26
+    100424: Cylinder27
+    100426: Cylinder28
+    100428: Cylinder29
+    100430: Cylinder30
+    100432: DCV01
+    100434: DCV02
+    100436: Direct01
+    100438: Direct01.Target
+    100440: dvd
+    100442: dvd01
+    100444: Ellipse01
+    100446: Ficus 1, Leaf 1
+    100448: Ficus 1, Leaf 10
+    100450: Ficus 1, Leaf 11
+    100452: Ficus 1, Leaf 12
+    100454: Ficus 1, Leaf 13
+    100456: Ficus 1, Leaf 14
+    100458: Ficus 1, Leaf 15
+    100460: Ficus 1, Leaf 16
+    100462: Ficus 1, Leaf 17
+    100464: Ficus 1, Leaf 18
+    100466: Ficus 1, Leaf 19
+    100468: Ficus 1, Leaf 2
+    100470: Ficus 1, Leaf 20
+    100472: Ficus 1, Leaf 21
+    100474: Ficus 1, Leaf 22
+    100476: Ficus 1, Leaf 23
+    100478: Ficus 1, Leaf 24
+    100480: Ficus 1, Leaf 25
+    100482: Ficus 1, Leaf 26
+    100484: Ficus 1, Leaf 27
+    100486: Ficus 1, Leaf 28
+    100488: Ficus 1, Leaf 29
+    100490: Ficus 1, Leaf 3
+    100492: Ficus 1, Leaf 30
+    100494: Ficus 1, Leaf 31
+    100496: Ficus 1, Leaf 4
+    100498: Ficus 1, Leaf 5
+    100500: Ficus 1, Leaf 6
+    100502: Ficus 1, Leaf 7
+    100504: Ficus 1, Leaf 8
+    100506: Ficus 1, Leaf 9
+    100508: Ficus 1, Stem 1
+    100510: Ficus 1, Stem 10
+    100512: Ficus 1, Stem 11
+    100514: Ficus 1, Stem 12
+    100516: Ficus 1, Stem 13
+    100518: Ficus 1, Stem 14
+    100520: Ficus 1, Stem 15
+    100522: Ficus 1, Stem 16
+    100524: Ficus 1, Stem 17
+    100526: Ficus 1, Stem 18
+    100528: Ficus 1, Stem 19
+    100530: Ficus 1, Stem 2
+    100532: Ficus 1, Stem 20
+    100534: Ficus 1, Stem 21
+    100536: Ficus 1, Stem 22
+    100538: Ficus 1, Stem 23
+    100540: Ficus 1, Stem 24
+    100542: Ficus 1, Stem 25
+    100544: Ficus 1, Stem 26
+    100546: Ficus 1, Stem 27
+    100548: Ficus 1, Stem 28
+    100550: Ficus 1, Stem 29
+    100552: Ficus 1, Stem 3
+    100554: Ficus 1, Stem 30
+    100556: Ficus 1, Stem 31
+    100558: Ficus 1, Stem 4
+    100560: Ficus 1, Stem 5
+    100562: Ficus 1, Stem 6
+    100564: Ficus 1, Stem 7
+    100566: Ficus 1, Stem 8
+    100568: Ficus 1, Stem 9
+    100570: Ficus 1, Trunk 1
+    100572: Ficus 1, Trunk 2
+    100574: Ficus 1, Trunk 3
+    100576: Group02
+    100578: Group03
+    100580: Group04
+    100582: Group06
+    100584: Group07
+    100586: Group08
+    100588: Group09
+    100590: Group10
+    100592: Group11
+    100594: Group12
+    100596: Group13
+    100598: Layer:______6
+    100600: Line01
+    100602: Line02
+    100604: Line03
+    100606: Line03 1
+    100608: Line04
+    100610: Line05
+    100612: Line06
+    100614: Line06 1
+    100616: Line07
+    100618: Line07 1
+    100620: Line08
+    100622: Line09
+    100624: Line10
+    100626: Line11
+    100628: Line16
+    100630: Line342
+    100632: Line345
+    100634: Line757
+    100636: Line83
+    100638: Line878
+    100640: Line879
+    100642: Line880
+    100644: Line881
+    100646: obj_01
+    100648: obj_01 1
+    100650: obj_01 2
+    100652: obj_01 3
+    100654: obj_01 4
+    100656: obj_02
+    100658: obj_02 1
+    100660: obj_02 2
+    100662: obj_02 3
+    100664: obj_03
+    100666: obj_03 1
+    100668: obj_03 2
+    100670: obj_03 3
+    100672: obj_04
+    100674: obj_04 1
+    100676: obj_04 2
+    100678: obj_04 3
+    100680: obj_05
+    100682: obj_05 1
+    100684: obj_06
+    100686: obj_06 1
+    100688: obj_07
+    100690: obj_07 1
+    100692: obj_08
+    100694: Object01
+    100696: Object02
+    100698: Object03
+    100700: Object04
+    100702: Object05
+    100704: Object06
+    100706: Object07
+    100708: Object08
+    100710: Object09
+    100712: Object10
+    100714: Object11
+    100716: Object12
+    100718: Object13
+    100720: Object14
+    100722: Object15
+    100724: Object16
+    100726: Object17
+    100728: Object18
+    100730: Object19
+    100732: Object21
+    100734: Object22
+    100736: Object24
+    100738: Rectangle01
+    100740: Rectangle02
+    100742: Rectangle03
+    100744: Rectangle03 1
+    100746: Rectangle04
+    100748: Rectangle04 1
+    100750: Rectangle05
+    100752: Rectangle06
+    100754: Rectangle06 1
+    100756: Rectangle07
+    100758: Rectangle07 1
+    100760: Rectangle08
+    100762: Rectangle08 1
+    100764: Rectangle08 2
+    100766: Rectangle100
+    100768: Rectangle101
+    100770: Rectangle102
+    100772: Rectangle103
+    100774: Rectangle104
+    100776: Rectangle106
+    100778: Rectangle107
+    100780: Rectangle108
+    100782: Rectangle109
+    100784: Rectangle110
+    100786: Rectangle111
+    100788: Rectangle112
+    100790: Rectangle113
+    100792: Rectangle114
+    100794: Rectangle115
+    100796: Rectangle116
+    100798: Rectangle117
+    100800: Rectangle118
+    100802: Rectangle119
+    100804: Rectangle12
+    100806: Rectangle120
+    100808: Rectangle121
+    100810: Rectangle122
+    100812: Rectangle123
+    100814: Rectangle124
+    100816: Rectangle125
+    100818: Rectangle126
+    100820: Rectangle127
+    100822: Rectangle128
+    100824: Rectangle129
+    100826: Rectangle130
+    100828: Rectangle131
+    100830: Rectangle132
+    100832: Rectangle133
+    100834: Rectangle134
+    100836: Rectangle135
+    100838: Rectangle136
+    100840: Rectangle137
+    100842: Rectangle138
+    100844: Rectangle14
+    100846: Rectangle15
+    100848: Rectangle16
+    100850: Rectangle16 1
+    100852: Rectangle17
+    100854: Rectangle32
+    100856: Rectangle33
+    100858: Rectangle34
+    100860: Rectangle94
+    100862: Rectangle95
+    100864: Rectangle96
+    100866: Rectangle97
+    100868: Rectangle98
+    100870: Rectangle99
+    100872: //RootNode
+    100874: shape
+    100876: Sphere01
+    100878: Sphere02
+    100880: Sphere03
+    100882: Sphere04
+    100884: Sphere05
+    100886: Sphere06
+    100888: Sphere07
+    100890: Sphere07 1
+    100892: Sphere08
+    100894: Sphere08 1
+    100896: Sphere09
+    100898: Sphere10
+    100900: Sphere11
+    100902: Sphere12
+    100904: Sphere12 1
+    100906: Sphere13
+    100908: Sphere13 1
+    100910: Sphere14
+    100912: Sphere14 1
+    100914: Sphere15
+    100916: Sphere16
+    100918: Sphere17
+    100920: Sphere18
+    100922: Sphere19
+    100924: Sphere20
+    100926: Sphere21
+    100928: Sphere22
+    100930: Sphere23
+    100932: Sphere24
+    100934: Sphere25
+    100936: Sphere26
+    100938: Sphere27
+    100940: Sphere28
+    100942: Sphere29
+    100944: Sphere30
+    100946: Sphere31
+    100948: Sphere32
+    100950: Sphere33
+    100952: Sphere34
+    100954: Sphere35
+    100956: Sphere36
+    100958: Sphere37
+    100960: Sphere38
+    100962: Sphere39
+    100964: Sphere40
+    100966: Sphere41
+    100968: Sphere42
+    100970: Sphere43
+    100972: Sphere44
+    100974: Sphere45
+    100976: Sphere46
+    100978: Sphere47
+    100980: Sphere48
+    100982: Sphere49
+    100984: Sphere50
+    100986: Sphere51
+    100988: Sphere52
+    100990: Sphere53
+    100992: Sphere54
+    100994: Sphere55
+    100996: Sphere56
+    100998: Text01
+    101000: Text03
+    101002: Text04
+    101004: Text05
+    101006: Text06
+    101008: Torus03
+    101010: VRayLight01
+    400000: '[NURBS Ficus 1]'
+    400002: ___
+    400004: ___
+    400006: ___
+    400008: ___01
+    400010: ___01
+    400012: ___02
+    400014: ___02
+    400016: ___03
+    400018: ___04
+    400020: ___04
+    400022: ___05
+    400024: ___06
+    400026: ___257
+    400028: ___258
+    400030: ___259
+    400032: ___260
+    400034: ___261
+    400036: ___271
+    400038: ___272
+    400040: ___278
+    400042: ___279
+    400044: ___280
+    400046: ___281
+    400048: ___283
+    400050: ___3
+    400052: ___313
+    400054: ___314
+    400056: ___315
+    400058: ___316
+    400060: ___317
+    400062: ___319
+    400064: ___320
+    400066: ___321
+    400068: ___322
+    400070: ___323
+    400072: ___324
+    400074: ___343
+    400076: ___344
+    400078: ___345
+    400080: ___347
+    400082: ___348
+    400084: ___349
+    400086: ___350
+    400088: ___351
+    400090: ___431
+    400092: ___432
+    400094: ___433
+    400096: ___434
+    400098: ___435
+    400100: ___436
+    400102: ___437
+    400104: ___438
+    400106: ___439
+    400108: ___440
+    400110: ___441
+    400112: ___442
+    400114: ___443
+    400116: ___444
+    400118: ___445
+    400120: ___446
+    400122: ___447
+    400124: ___448
+    400126: ___449
+    400128: ___450
+    400130: ___451
+    400132: ______
+    400134: ______
+    400136: ______
+    400138: ______
+    400140: ______
+    400142: ______
+    400144: ______
+    400146: ______
+    400148: ______01
+    400150: ______01
+    400152: ______01
+    400154: ______01
+    400156: ______1
+    400158: _________
+    400160: _________
+    400162: _________11111
+    400164: ____________
+    400166: Apple Red Delicious Bottom02
+    400168: Apple Red Delicious Stem02
+    400170: Apple Red Delicious02
+    400172: Arc10
+    400174: Arc11
+    400176: Arc12
+    400178: Arc13
+    400180: Box01
+    400182: Box01 1
+    400184: Box02
+    400186: Box03
+    400188: Box03 1
+    400190: Box04
+    400192: Box04 1
+    400194: Box05
+    400196: Box05 1
+    400198: Box06
+    400200: Box07
+    400202: Box07 1
+    400204: Box08
+    400206: Box08 1
+    400208: Box09
+    400210: Box09 1
+    400212: Box10
+    400214: Box10 1
+    400216: Box100
+    400218: Box101
+    400220: Box102
+    400222: Box103
+    400224: Box105
+    400226: Box106
+    400228: Box107
+    400230: Box108
+    400232: Box109
+    400234: Box11
+    400236: Box110
+    400238: Box12
+    400240: Box13
+    400242: Box14
+    400244: Box21
+    400246: Box22
+    400248: Box23
+    400250: Box25
+    400252: Box26
+    400254: Box33
+    400256: Box36
+    400258: Box37
+    400260: Box38
+    400262: Box42
+    400264: Box43
+    400266: Box44
+    400268: Box46
+    400270: Box49
+    400272: Box50
+    400274: Box96
+    400276: Box97
+    400278: Box98
+    400280: Box99
+    400282: Camera03
+    400284: Camera03.Target
+    400286: ChamferBox29
+    400288: ChamferBox30
+    400290: ChamferBox31
+    400292: ChamferBox32
+    400294: ChamferBox33
+    400296: ChamferBox34
+    400298: ChamferBox35
+    400300: ChamferBox36
+    400302: ChamferCyl02
+    400304: ChamferCyl03
+    400306: Cherry Bing Stem02
+    400308: Cherry Bing Stem03
+    400310: Cherry Bing02
+    400312: Cherry Bing03
+    400314: Circle01
+    400316: Circle04
+    400318: Circle05
+    400320: Circle06
+    400322: Circle07
+    400324: Circle08
+    400326: Circle09
+    400328: Circle09 1
+    400330: Circle10
+    400332: Circle10 1
+    400334: Circle11
+    400336: Circle11 1
+    400338: Circle12
+    400340: Circle12 1
+    400342: Circle13
+    400344: Circle14
+    400346: Circle15
+    400348: Circle16
+    400350: Circle17
+    400352: Circle17 1
+    400354: Circle18
+    400356: Circle18 1
+    400358: Circle19
+    400360: Circle19 1
+    400362: Circle21
+    400364: Circle22
+    400366: Circle23
+    400368: Circle24
+    400370: Circle25
+    400372: Circle26
+    400374: Circle27
+    400376: Circle28
+    400378: Circle29
+    400380: Circle31
+    400382: Circle52
+    400384: Circle53
+    400386: Circle54
+    400388: Circle55
+    400390: Circle56
+    400392: Circle57
+    400394: Circle58
+    400396: Circle59
+    400398: Cylinder01
+    400400: Cylinder07
+    400402: Cylinder08
+    400404: Cylinder09
+    400406: Cylinder10
+    400408: Cylinder129
+    400410: Cylinder130
+    400412: Cylinder131
+    400414: Cylinder132
+    400416: Cylinder23
+    400418: Cylinder24
+    400420: Cylinder25
+    400422: Cylinder26
+    400424: Cylinder27
+    400426: Cylinder28
+    400428: Cylinder29
+    400430: Cylinder30
+    400432: DCV01
+    400434: DCV02
+    400436: Direct01
+    400438: Direct01.Target
+    400440: dvd
+    400442: dvd01
+    400444: Ellipse01
+    400446: Ficus 1, Leaf 1
+    400448: Ficus 1, Leaf 10
+    400450: Ficus 1, Leaf 11
+    400452: Ficus 1, Leaf 12
+    400454: Ficus 1, Leaf 13
+    400456: Ficus 1, Leaf 14
+    400458: Ficus 1, Leaf 15
+    400460: Ficus 1, Leaf 16
+    400462: Ficus 1, Leaf 17
+    400464: Ficus 1, Leaf 18
+    400466: Ficus 1, Leaf 19
+    400468: Ficus 1, Leaf 2
+    400470: Ficus 1, Leaf 20
+    400472: Ficus 1, Leaf 21
+    400474: Ficus 1, Leaf 22
+    400476: Ficus 1, Leaf 23
+    400478: Ficus 1, Leaf 24
+    400480: Ficus 1, Leaf 25
+    400482: Ficus 1, Leaf 26
+    400484: Ficus 1, Leaf 27
+    400486: Ficus 1, Leaf 28
+    400488: Ficus 1, Leaf 29
+    400490: Ficus 1, Leaf 3
+    400492: Ficus 1, Leaf 30
+    400494: Ficus 1, Leaf 31
+    400496: Ficus 1, Leaf 4
+    400498: Ficus 1, Leaf 5
+    400500: Ficus 1, Leaf 6
+    400502: Ficus 1, Leaf 7
+    400504: Ficus 1, Leaf 8
+    400506: Ficus 1, Leaf 9
+    400508: Ficus 1, Stem 1
+    400510: Ficus 1, Stem 10
+    400512: Ficus 1, Stem 11
+    400514: Ficus 1, Stem 12
+    400516: Ficus 1, Stem 13
+    400518: Ficus 1, Stem 14
+    400520: Ficus 1, Stem 15
+    400522: Ficus 1, Stem 16
+    400524: Ficus 1, Stem 17
+    400526: Ficus 1, Stem 18
+    400528: Ficus 1, Stem 19
+    400530: Ficus 1, Stem 2
+    400532: Ficus 1, Stem 20
+    400534: Ficus 1, Stem 21
+    400536: Ficus 1, Stem 22
+    400538: Ficus 1, Stem 23
+    400540: Ficus 1, Stem 24
+    400542: Ficus 1, Stem 25
+    400544: Ficus 1, Stem 26
+    400546: Ficus 1, Stem 27
+    400548: Ficus 1, Stem 28
+    400550: Ficus 1, Stem 29
+    400552: Ficus 1, Stem 3
+    400554: Ficus 1, Stem 30
+    400556: Ficus 1, Stem 31
+    400558: Ficus 1, Stem 4
+    400560: Ficus 1, Stem 5
+    400562: Ficus 1, Stem 6
+    400564: Ficus 1, Stem 7
+    400566: Ficus 1, Stem 8
+    400568: Ficus 1, Stem 9
+    400570: Ficus 1, Trunk 1
+    400572: Ficus 1, Trunk 2
+    400574: Ficus 1, Trunk 3
+    400576: Group02
+    400578: Group03
+    400580: Group04
+    400582: Group06
+    400584: Group07
+    400586: Group08
+    400588: Group09
+    400590: Group10
+    400592: Group11
+    400594: Group12
+    400596: Group13
+    400598: Layer:______6
+    400600: Line01
+    400602: Line02
+    400604: Line03
+    400606: Line03 1
+    400608: Line04
+    400610: Line05
+    400612: Line06
+    400614: Line06 1
+    400616: Line07
+    400618: Line07 1
+    400620: Line08
+    400622: Line09
+    400624: Line10
+    400626: Line11
+    400628: Line16
+    400630: Line342
+    400632: Line345
+    400634: Line757
+    400636: Line83
+    400638: Line878
+    400640: Line879
+    400642: Line880
+    400644: Line881
+    400646: obj_01
+    400648: obj_01 1
+    400650: obj_01 2
+    400652: obj_01 3
+    400654: obj_01 4
+    400656: obj_02
+    400658: obj_02 1
+    400660: obj_02 2
+    400662: obj_02 3
+    400664: obj_03
+    400666: obj_03 1
+    400668: obj_03 2
+    400670: obj_03 3
+    400672: obj_04
+    400674: obj_04 1
+    400676: obj_04 2
+    400678: obj_04 3
+    400680: obj_05
+    400682: obj_05 1
+    400684: obj_06
+    400686: obj_06 1
+    400688: obj_07
+    400690: obj_07 1
+    400692: obj_08
+    400694: Object01
+    400696: Object02
+    400698: Object03
+    400700: Object04
+    400702: Object05
+    400704: Object06
+    400706: Object07
+    400708: Object08
+    400710: Object09
+    400712: Object10
+    400714: Object11
+    400716: Object12
+    400718: Object13
+    400720: Object14
+    400722: Object15
+    400724: Object16
+    400726: Object17
+    400728: Object18
+    400730: Object19
+    400732: Object21
+    400734: Object22
+    400736: Object24
+    400738: Rectangle01
+    400740: Rectangle02
+    400742: Rectangle03
+    400744: Rectangle03 1
+    400746: Rectangle04
+    400748: Rectangle04 1
+    400750: Rectangle05
+    400752: Rectangle06
+    400754: Rectangle06 1
+    400756: Rectangle07
+    400758: Rectangle07 1
+    400760: Rectangle08
+    400762: Rectangle08 1
+    400764: Rectangle08 2
+    400766: Rectangle100
+    400768: Rectangle101
+    400770: Rectangle102
+    400772: Rectangle103
+    400774: Rectangle104
+    400776: Rectangle106
+    400778: Rectangle107
+    400780: Rectangle108
+    400782: Rectangle109
+    400784: Rectangle110
+    400786: Rectangle111
+    400788: Rectangle112
+    400790: Rectangle113
+    400792: Rectangle114
+    400794: Rectangle115
+    400796: Rectangle116
+    400798: Rectangle117
+    400800: Rectangle118
+    400802: Rectangle119
+    400804: Rectangle12
+    400806: Rectangle120
+    400808: Rectangle121
+    400810: Rectangle122
+    400812: Rectangle123
+    400814: Rectangle124
+    400816: Rectangle125
+    400818: Rectangle126
+    400820: Rectangle127
+    400822: Rectangle128
+    400824: Rectangle129
+    400826: Rectangle130
+    400828: Rectangle131
+    400830: Rectangle132
+    400832: Rectangle133
+    400834: Rectangle134
+    400836: Rectangle135
+    400838: Rectangle136
+    400840: Rectangle137
+    400842: Rectangle138
+    400844: Rectangle14
+    400846: Rectangle15
+    400848: Rectangle16
+    400850: Rectangle16 1
+    400852: Rectangle17
+    400854: Rectangle32
+    400856: Rectangle33
+    400858: Rectangle34
+    400860: Rectangle94
+    400862: Rectangle95
+    400864: Rectangle96
+    400866: Rectangle97
+    400868: Rectangle98
+    400870: Rectangle99
+    400872: //RootNode
+    400874: shape
+    400876: Sphere01
+    400878: Sphere02
+    400880: Sphere03
+    400882: Sphere04
+    400884: Sphere05
+    400886: Sphere06
+    400888: Sphere07
+    400890: Sphere07 1
+    400892: Sphere08
+    400894: Sphere08 1
+    400896: Sphere09
+    400898: Sphere10
+    400900: Sphere11
+    400902: Sphere12
+    400904: Sphere12 1
+    400906: Sphere13
+    400908: Sphere13 1
+    400910: Sphere14
+    400912: Sphere14 1
+    400914: Sphere15
+    400916: Sphere16
+    400918: Sphere17
+    400920: Sphere18
+    400922: Sphere19
+    400924: Sphere20
+    400926: Sphere21
+    400928: Sphere22
+    400930: Sphere23
+    400932: Sphere24
+    400934: Sphere25
+    400936: Sphere26
+    400938: Sphere27
+    400940: Sphere28
+    400942: Sphere29
+    400944: Sphere30
+    400946: Sphere31
+    400948: Sphere32
+    400950: Sphere33
+    400952: Sphere34
+    400954: Sphere35
+    400956: Sphere36
+    400958: Sphere37
+    400960: Sphere38
+    400962: Sphere39
+    400964: Sphere40
+    400966: Sphere41
+    400968: Sphere42
+    400970: Sphere43
+    400972: Sphere44
+    400974: Sphere45
+    400976: Sphere46
+    400978: Sphere47
+    400980: Sphere48
+    400982: Sphere49
+    400984: Sphere50
+    400986: Sphere51
+    400988: Sphere52
+    400990: Sphere53
+    400992: Sphere54
+    400994: Sphere55
+    400996: Sphere56
+    400998: Text01
+    401000: Text03
+    401002: Text04
+    401004: Text05
+    401006: Text06
+    401008: Torus03
+    401010: VRayLight01
+    2300000: ___
+    2300002: ___
+    2300004: ___01
+    2300006: ___02
+    2300008: ___04
+    2300010: ___257
+    2300012: ___258
+    2300014: ___259
+    2300016: ___260
+    2300018: ___261
+    2300020: ___271
+    2300022: ___272
+    2300024: ___278
+    2300026: ___279
+    2300028: ___280
+    2300030: ___281
+    2300032: ___283
+    2300034: ___3
+    2300036: ___313
+    2300038: ___314
+    2300040: ___315
+    2300042: ___316
+    2300044: ___317
+    2300046: ___319
+    2300048: ___320
+    2300050: ___321
+    2300052: ___322
+    2300054: ___323
+    2300056: ___324
+    2300058: ___343
+    2300060: ___344
+    2300062: ___345
+    2300064: ___347
+    2300066: ___348
+    2300068: ___349
+    2300070: ___350
+    2300072: ___351
+    2300074: ___431
+    2300076: ___432
+    2300078: ___433
+    2300080: ___434
+    2300082: ___435
+    2300084: ___436
+    2300086: ___437
+    2300088: ___438
+    2300090: ___439
+    2300092: ___440
+    2300094: ___441
+    2300096: ___442
+    2300098: ___443
+    2300100: ___444
+    2300102: ___445
+    2300104: ___446
+    2300106: ___447
+    2300108: ___448
+    2300110: ___449
+    2300112: ___450
+    2300114: ___451
+    2300116: ______
+    2300118: ______
+    2300120: ______
+    2300122: ______01
+    2300124: ______1
+    2300126: _________
+    2300128: _________11111
+    2300130: Apple Red Delicious Bottom02
+    2300132: Apple Red Delicious Stem02
+    2300134: Apple Red Delicious02
+    2300136: Arc10
+    2300138: Arc11
+    2300140: Arc12
+    2300142: Arc13
+    2300144: Box01
+    2300146: Box01 1
+    2300148: Box02
+    2300150: Box03
+    2300152: Box03 1
+    2300154: Box04
+    2300156: Box04 1
+    2300158: Box05
+    2300160: Box05 1
+    2300162: Box06
+    2300164: Box07
+    2300166: Box07 1
+    2300168: Box08
+    2300170: Box08 1
+    2300172: Box09
+    2300174: Box09 1
+    2300176: Box10
+    2300178: Box10 1
+    2300180: Box100
+    2300182: Box101
+    2300184: Box102
+    2300186: Box103
+    2300188: Box105
+    2300190: Box106
+    2300192: Box107
+    2300194: Box108
+    2300196: Box109
+    2300198: Box11
+    2300200: Box110
+    2300202: Box12
+    2300204: Box13
+    2300206: Box14
+    2300208: Box21
+    2300210: Box22
+    2300212: Box23
+    2300214: Box25
+    2300216: Box26
+    2300218: Box33
+    2300220: Box36
+    2300222: Box37
+    2300224: Box38
+    2300226: Box42
+    2300228: Box43
+    2300230: Box44
+    2300232: Box46
+    2300234: Box49
+    2300236: Box50
+    2300238: Box96
+    2300240: Box97
+    2300242: Box98
+    2300244: Box99
+    2300246: ChamferBox29
+    2300248: ChamferBox30
+    2300250: ChamferBox31
+    2300252: ChamferBox32
+    2300254: ChamferBox33
+    2300256: ChamferBox34
+    2300258: ChamferBox35
+    2300260: ChamferBox36
+    2300262: ChamferCyl02
+    2300264: ChamferCyl03
+    2300266: Cherry Bing Stem02
+    2300268: Cherry Bing Stem03
+    2300270: Cherry Bing02
+    2300272: Cherry Bing03
+    2300274: Circle01
+    2300276: Circle04
+    2300278: Circle05
+    2300280: Circle06
+    2300282: Circle07
+    2300284: Circle08
+    2300286: Circle09
+    2300288: Circle09 1
+    2300290: Circle10
+    2300292: Circle10 1
+    2300294: Circle11
+    2300296: Circle11 1
+    2300298: Circle12
+    2300300: Circle12 1
+    2300302: Circle13
+    2300304: Circle14
+    2300306: Circle15
+    2300308: Circle16
+    2300310: Circle17
+    2300312: Circle17 1
+    2300314: Circle18
+    2300316: Circle18 1
+    2300318: Circle19
+    2300320: Circle19 1
+    2300322: Circle21
+    2300324: Circle22
+    2300326: Circle23
+    2300328: Circle24
+    2300330: Circle25
+    2300332: Circle26
+    2300334: Circle27
+    2300336: Circle28
+    2300338: Circle29
+    2300340: Circle31
+    2300342: Circle52
+    2300344: Circle53
+    2300346: Circle54
+    2300348: Circle55
+    2300350: Circle56
+    2300352: Circle57
+    2300354: Circle58
+    2300356: Circle59
+    2300358: Cylinder01
+    2300360: Cylinder07
+    2300362: Cylinder08
+    2300364: Cylinder09
+    2300366: Cylinder10
+    2300368: Cylinder129
+    2300370: Cylinder130
+    2300372: Cylinder131
+    2300374: Cylinder132
+    2300376: Cylinder23
+    2300378: Cylinder24
+    2300380: Cylinder25
+    2300382: Cylinder26
+    2300384: Cylinder27
+    2300386: Cylinder28
+    2300388: Cylinder29
+    2300390: Cylinder30
+    2300392: DCV01
+    2300394: DCV02
+    2300396: Ellipse01
+    2300398: Ficus 1, Leaf 1
+    2300400: Ficus 1, Leaf 10
+    2300402: Ficus 1, Leaf 11
+    2300404: Ficus 1, Leaf 12
+    2300406: Ficus 1, Leaf 13
+    2300408: Ficus 1, Leaf 14
+    2300410: Ficus 1, Leaf 15
+    2300412: Ficus 1, Leaf 16
+    2300414: Ficus 1, Leaf 17
+    2300416: Ficus 1, Leaf 18
+    2300418: Ficus 1, Leaf 19
+    2300420: Ficus 1, Leaf 2
+    2300422: Ficus 1, Leaf 20
+    2300424: Ficus 1, Leaf 21
+    2300426: Ficus 1, Leaf 22
+    2300428: Ficus 1, Leaf 23
+    2300430: Ficus 1, Leaf 24
+    2300432: Ficus 1, Leaf 25
+    2300434: Ficus 1, Leaf 26
+    2300436: Ficus 1, Leaf 27
+    2300438: Ficus 1, Leaf 28
+    2300440: Ficus 1, Leaf 29
+    2300442: Ficus 1, Leaf 3
+    2300444: Ficus 1, Leaf 30
+    2300446: Ficus 1, Leaf 31
+    2300448: Ficus 1, Leaf 4
+    2300450: Ficus 1, Leaf 5
+    2300452: Ficus 1, Leaf 6
+    2300454: Ficus 1, Leaf 7
+    2300456: Ficus 1, Leaf 8
+    2300458: Ficus 1, Leaf 9
+    2300460: Ficus 1, Stem 1
+    2300462: Ficus 1, Stem 10
+    2300464: Ficus 1, Stem 11
+    2300466: Ficus 1, Stem 12
+    2300468: Ficus 1, Stem 13
+    2300470: Ficus 1, Stem 14
+    2300472: Ficus 1, Stem 15
+    2300474: Ficus 1, Stem 16
+    2300476: Ficus 1, Stem 17
+    2300478: Ficus 1, Stem 18
+    2300480: Ficus 1, Stem 19
+    2300482: Ficus 1, Stem 2
+    2300484: Ficus 1, Stem 20
+    2300486: Ficus 1, Stem 21
+    2300488: Ficus 1, Stem 22
+    2300490: Ficus 1, Stem 23
+    2300492: Ficus 1, Stem 24
+    2300494: Ficus 1, Stem 25
+    2300496: Ficus 1, Stem 26
+    2300498: Ficus 1, Stem 27
+    2300500: Ficus 1, Stem 28
+    2300502: Ficus 1, Stem 29
+    2300504: Ficus 1, Stem 3
+    2300506: Ficus 1, Stem 30
+    2300508: Ficus 1, Stem 31
+    2300510: Ficus 1, Stem 4
+    2300512: Ficus 1, Stem 5
+    2300514: Ficus 1, Stem 6
+    2300516: Ficus 1, Stem 7
+    2300518: Ficus 1, Stem 8
+    2300520: Ficus 1, Stem 9
+    2300522: Ficus 1, Trunk 1
+    2300524: Ficus 1, Trunk 2
+    2300526: Ficus 1, Trunk 3
+    2300528: Line01
+    2300530: Line02
+    2300532: Line03
+    2300534: Line03 1
+    2300536: Line05
+    2300538: Line06 1
+    2300540: Line07
+    2300542: Line07 1
+    2300544: Line09
+    2300546: Line10
+    2300548: Line11
+    2300550: Line16
+    2300552: Line342
+    2300554: Line757
+    2300556: Line83
+    2300558: Line878
+    2300560: Line879
+    2300562: Line881
+    2300564: obj_01
+    2300566: obj_01 1
+    2300568: obj_01 2
+    2300570: obj_01 3
+    2300572: obj_01 4
+    2300574: obj_02
+    2300576: obj_02 1
+    2300578: obj_02 2
+    2300580: obj_02 3
+    2300582: obj_03
+    2300584: obj_03 1
+    2300586: obj_03 2
+    2300588: obj_03 3
+    2300590: obj_04
+    2300592: obj_04 1
+    2300594: obj_04 2
+    2300596: obj_04 3
+    2300598: obj_05
+    2300600: obj_05 1
+    2300602: obj_06
+    2300604: obj_06 1
+    2300606: obj_07
+    2300608: obj_07 1
+    2300610: obj_08
+    2300612: Object01
+    2300614: Object02
+    2300616: Object03
+    2300618: Object04
+    2300620: Object05
+    2300622: Object06
+    2300624: Object07
+    2300626: Object08
+    2300628: Object09
+    2300630: Object10
+    2300632: Object11
+    2300634: Object12
+    2300636: Object13
+    2300638: Object14
+    2300640: Object15
+    2300642: Object16
+    2300644: Object17
+    2300646: Object18
+    2300648: Object19
+    2300650: Object21
+    2300652: Object22
+    2300654: Object24
+    2300656: Rectangle01
+    2300658: Rectangle02
+    2300660: Rectangle03
+    2300662: Rectangle03 1
+    2300664: Rectangle04
+    2300666: Rectangle04 1
+    2300668: Rectangle05
+    2300670: Rectangle06
+    2300672: Rectangle06 1
+    2300674: Rectangle07
+    2300676: Rectangle07 1
+    2300678: Rectangle08
+    2300680: Rectangle08 1
+    2300682: Rectangle08 2
+    2300684: Rectangle100
+    2300686: Rectangle101
+    2300688: Rectangle102
+    2300690: Rectangle103
+    2300692: Rectangle104
+    2300694: Rectangle106
+    2300696: Rectangle107
+    2300698: Rectangle108
+    2300700: Rectangle109
+    2300702: Rectangle110
+    2300704: Rectangle111
+    2300706: Rectangle112
+    2300708: Rectangle113
+    2300710: Rectangle114
+    2300712: Rectangle115
+    2300714: Rectangle116
+    2300716: Rectangle117
+    2300718: Rectangle118
+    2300720: Rectangle119
+    2300722: Rectangle12
+    2300724: Rectangle120
+    2300726: Rectangle121
+    2300728: Rectangle122
+    2300730: Rectangle124
+    2300732: Rectangle125
+    2300734: Rectangle126
+    2300736: Rectangle127
+    2300738: Rectangle128
+    2300740: Rectangle129
+    2300742: Rectangle130
+    2300744: Rectangle131
+    2300746: Rectangle132
+    2300748: Rectangle133
+    2300750: Rectangle134
+    2300752: Rectangle135
+    2300754: Rectangle136
+    2300756: Rectangle137
+    2300758: Rectangle138
+    2300760: Rectangle14
+    2300762: Rectangle15
+    2300764: Rectangle16
+    2300766: Rectangle16 1
+    2300768: Rectangle17
+    2300770: Rectangle32
+    2300772: Rectangle33
+    2300774: Rectangle34
+    2300776: Rectangle94
+    2300778: Rectangle95
+    2300780: Rectangle96
+    2300782: Rectangle98
+    2300784: Rectangle99
+    2300786: Sphere01
+    2300788: Sphere02
+    2300790: Sphere03
+    2300792: Sphere04
+    2300794: Sphere05
+    2300796: Sphere06
+    2300798: Sphere07
+    2300800: Sphere07 1
+    2300802: Sphere08
+    2300804: Sphere08 1
+    2300806: Sphere09
+    2300808: Sphere10
+    2300810: Sphere11
+    2300812: Sphere12
+    2300814: Sphere12 1
+    2300816: Sphere13
+    2300818: Sphere13 1
+    2300820: Sphere14
+    2300822: Sphere14 1
+    2300824: Sphere15
+    2300826: Sphere16
+    2300828: Sphere17
+    2300830: Sphere18
+    2300832: Sphere19
+    2300834: Sphere20
+    2300836: Sphere21
+    2300838: Sphere22
+    2300840: Sphere23
+    2300842: Sphere24
+    2300844: Sphere25
+    2300846: Sphere26
+    2300848: Sphere27
+    2300850: Sphere28
+    2300852: Sphere29
+    2300854: Sphere30
+    2300856: Sphere31
+    2300858: Sphere32
+    2300860: Sphere33
+    2300862: Sphere34
+    2300864: Sphere35
+    2300866: Sphere36
+    2300868: Sphere37
+    2300870: Sphere38
+    2300872: Sphere39
+    2300874: Sphere40
+    2300876: Sphere41
+    2300878: Sphere42
+    2300880: Sphere43
+    2300882: Sphere44
+    2300884: Sphere45
+    2300886: Sphere46
+    2300888: Sphere47
+    2300890: Sphere48
+    2300892: Sphere49
+    2300894: Sphere50
+    2300896: Sphere51
+    2300898: Sphere52
+    2300900: Sphere53
+    2300902: Sphere54
+    2300904: Sphere55
+    2300906: Sphere56
+    2300908: Text01
+    2300910: Text03
+    2300912: Text04
+    2300914: Text05
+    2300916: Text06
+    2300918: Torus03
+    3300000: ___
+    3300002: ___
+    3300004: ___01
+    3300006: ___02
+    3300008: ___04
+    3300010: ___257
+    3300012: ___258
+    3300014: ___259
+    3300016: ___260
+    3300018: ___261
+    3300020: ___271
+    3300022: ___272
+    3300024: ___278
+    3300026: ___279
+    3300028: ___280
+    3300030: ___281
+    3300032: ___283
+    3300034: ___3
+    3300036: ___313
+    3300038: ___314
+    3300040: ___315
+    3300042: ___316
+    3300044: ___317
+    3300046: ___319
+    3300048: ___320
+    3300050: ___321
+    3300052: ___322
+    3300054: ___323
+    3300056: ___324
+    3300058: ___343
+    3300060: ___344
+    3300062: ___345
+    3300064: ___347
+    3300066: ___348
+    3300068: ___349
+    3300070: ___350
+    3300072: ___351
+    3300074: ___431
+    3300076: ___432
+    3300078: ___433
+    3300080: ___434
+    3300082: ___435
+    3300084: ___436
+    3300086: ___437
+    3300088: ___438
+    3300090: ___439
+    3300092: ___440
+    3300094: ___441
+    3300096: ___442
+    3300098: ___443
+    3300100: ___444
+    3300102: ___445
+    3300104: ___446
+    3300106: ___447
+    3300108: ___448
+    3300110: ___449
+    3300112: ___450
+    3300114: ___451
+    3300116: ______
+    3300118: ______
+    3300120: ______
+    3300122: ______01
+    3300124: ______1
+    3300126: _________
+    3300128: _________11111
+    3300130: Apple Red Delicious Bottom02
+    3300132: Apple Red Delicious Stem02
+    3300134: Apple Red Delicious02
+    3300136: Arc10
+    3300138: Arc11
+    3300140: Arc12
+    3300142: Arc13
+    3300144: Box01
+    3300146: Box01 1
+    3300148: Box02
+    3300150: Box03
+    3300152: Box03 1
+    3300154: Box04
+    3300156: Box04 1
+    3300158: Box05
+    3300160: Box05 1
+    3300162: Box06
+    3300164: Box07
+    3300166: Box07 1
+    3300168: Box08
+    3300170: Box08 1
+    3300172: Box09
+    3300174: Box09 1
+    3300176: Box10
+    3300178: Box10 1
+    3300180: Box100
+    3300182: Box101
+    3300184: Box102
+    3300186: Box103
+    3300188: Box105
+    3300190: Box106
+    3300192: Box107
+    3300194: Box108
+    3300196: Box109
+    3300198: Box11
+    3300200: Box110
+    3300202: Box12
+    3300204: Box13
+    3300206: Box14
+    3300208: Box21
+    3300210: Box22
+    3300212: Box23
+    3300214: Box25
+    3300216: Box26
+    3300218: Box33
+    3300220: Box36
+    3300222: Box37
+    3300224: Box38
+    3300226: Box42
+    3300228: Box43
+    3300230: Box44
+    3300232: Box46
+    3300234: Box49
+    3300236: Box50
+    3300238: Box96
+    3300240: Box97
+    3300242: Box98
+    3300244: Box99
+    3300246: ChamferBox29
+    3300248: ChamferBox30
+    3300250: ChamferBox31
+    3300252: ChamferBox32
+    3300254: ChamferBox33
+    3300256: ChamferBox34
+    3300258: ChamferBox35
+    3300260: ChamferBox36
+    3300262: ChamferCyl02
+    3300264: ChamferCyl03
+    3300266: Cherry Bing Stem02
+    3300268: Cherry Bing Stem03
+    3300270: Cherry Bing02
+    3300272: Cherry Bing03
+    3300274: Circle01
+    3300276: Circle04
+    3300278: Circle05
+    3300280: Circle06
+    3300282: Circle07
+    3300284: Circle08
+    3300286: Circle09
+    3300288: Circle09 1
+    3300290: Circle10
+    3300292: Circle10 1
+    3300294: Circle11
+    3300296: Circle11 1
+    3300298: Circle12
+    3300300: Circle12 1
+    3300302: Circle13
+    3300304: Circle14
+    3300306: Circle15
+    3300308: Circle16
+    3300310: Circle17
+    3300312: Circle17 1
+    3300314: Circle18
+    3300316: Circle18 1
+    3300318: Circle19
+    3300320: Circle19 1
+    3300322: Circle21
+    3300324: Circle22
+    3300326: Circle23
+    3300328: Circle24
+    3300330: Circle25
+    3300332: Circle26
+    3300334: Circle27
+    3300336: Circle28
+    3300338: Circle29
+    3300340: Circle31
+    3300342: Circle52
+    3300344: Circle53
+    3300346: Circle54
+    3300348: Circle55
+    3300350: Circle56
+    3300352: Circle57
+    3300354: Circle58
+    3300356: Circle59
+    3300358: Cylinder01
+    3300360: Cylinder07
+    3300362: Cylinder08
+    3300364: Cylinder09
+    3300366: Cylinder10
+    3300368: Cylinder129
+    3300370: Cylinder130
+    3300372: Cylinder131
+    3300374: Cylinder132
+    3300376: Cylinder23
+    3300378: Cylinder24
+    3300380: Cylinder25
+    3300382: Cylinder26
+    3300384: Cylinder27
+    3300386: Cylinder28
+    3300388: Cylinder29
+    3300390: Cylinder30
+    3300392: DCV01
+    3300394: DCV02
+    3300396: Ellipse01
+    3300398: Ficus 1, Leaf 1
+    3300400: Ficus 1, Leaf 10
+    3300402: Ficus 1, Leaf 11
+    3300404: Ficus 1, Leaf 12
+    3300406: Ficus 1, Leaf 13
+    3300408: Ficus 1, Leaf 14
+    3300410: Ficus 1, Leaf 15
+    3300412: Ficus 1, Leaf 16
+    3300414: Ficus 1, Leaf 17
+    3300416: Ficus 1, Leaf 18
+    3300418: Ficus 1, Leaf 19
+    3300420: Ficus 1, Leaf 2
+    3300422: Ficus 1, Leaf 20
+    3300424: Ficus 1, Leaf 21
+    3300426: Ficus 1, Leaf 22
+    3300428: Ficus 1, Leaf 23
+    3300430: Ficus 1, Leaf 24
+    3300432: Ficus 1, Leaf 25
+    3300434: Ficus 1, Leaf 26
+    3300436: Ficus 1, Leaf 27
+    3300438: Ficus 1, Leaf 28
+    3300440: Ficus 1, Leaf 29
+    3300442: Ficus 1, Leaf 3
+    3300444: Ficus 1, Leaf 30
+    3300446: Ficus 1, Leaf 31
+    3300448: Ficus 1, Leaf 4
+    3300450: Ficus 1, Leaf 5
+    3300452: Ficus 1, Leaf 6
+    3300454: Ficus 1, Leaf 7
+    3300456: Ficus 1, Leaf 8
+    3300458: Ficus 1, Leaf 9
+    3300460: Ficus 1, Stem 1
+    3300462: Ficus 1, Stem 10
+    3300464: Ficus 1, Stem 11
+    3300466: Ficus 1, Stem 12
+    3300468: Ficus 1, Stem 13
+    3300470: Ficus 1, Stem 14
+    3300472: Ficus 1, Stem 15
+    3300474: Ficus 1, Stem 16
+    3300476: Ficus 1, Stem 17
+    3300478: Ficus 1, Stem 18
+    3300480: Ficus 1, Stem 19
+    3300482: Ficus 1, Stem 2
+    3300484: Ficus 1, Stem 20
+    3300486: Ficus 1, Stem 21
+    3300488: Ficus 1, Stem 22
+    3300490: Ficus 1, Stem 23
+    3300492: Ficus 1, Stem 24
+    3300494: Ficus 1, Stem 25
+    3300496: Ficus 1, Stem 26
+    3300498: Ficus 1, Stem 27
+    3300500: Ficus 1, Stem 28
+    3300502: Ficus 1, Stem 29
+    3300504: Ficus 1, Stem 3
+    3300506: Ficus 1, Stem 30
+    3300508: Ficus 1, Stem 31
+    3300510: Ficus 1, Stem 4
+    3300512: Ficus 1, Stem 5
+    3300514: Ficus 1, Stem 6
+    3300516: Ficus 1, Stem 7
+    3300518: Ficus 1, Stem 8
+    3300520: Ficus 1, Stem 9
+    3300522: Ficus 1, Trunk 1
+    3300524: Ficus 1, Trunk 2
+    3300526: Ficus 1, Trunk 3
+    3300528: Line01
+    3300530: Line02
+    3300532: Line03
+    3300534: Line03 1
+    3300536: Line05
+    3300538: Line06 1
+    3300540: Line07
+    3300542: Line07 1
+    3300544: Line09
+    3300546: Line10
+    3300548: Line11
+    3300550: Line16
+    3300552: Line342
+    3300554: Line757
+    3300556: Line83
+    3300558: Line878
+    3300560: Line879
+    3300562: Line881
+    3300564: obj_01
+    3300566: obj_01 1
+    3300568: obj_01 2
+    3300570: obj_01 3
+    3300572: obj_01 4
+    3300574: obj_02
+    3300576: obj_02 1
+    3300578: obj_02 2
+    3300580: obj_02 3
+    3300582: obj_03
+    3300584: obj_03 1
+    3300586: obj_03 2
+    3300588: obj_03 3
+    3300590: obj_04
+    3300592: obj_04 1
+    3300594: obj_04 2
+    3300596: obj_04 3
+    3300598: obj_05
+    3300600: obj_05 1
+    3300602: obj_06
+    3300604: obj_06 1
+    3300606: obj_07
+    3300608: obj_07 1
+    3300610: obj_08
+    3300612: Object01
+    3300614: Object02
+    3300616: Object03
+    3300618: Object04
+    3300620: Object05
+    3300622: Object06
+    3300624: Object07
+    3300626: Object08
+    3300628: Object09
+    3300630: Object10
+    3300632: Object11
+    3300634: Object12
+    3300636: Object13
+    3300638: Object14
+    3300640: Object15
+    3300642: Object16
+    3300644: Object17
+    3300646: Object18
+    3300648: Object19
+    3300650: Object21
+    3300652: Object22
+    3300654: Object24
+    3300656: Rectangle01
+    3300658: Rectangle02
+    3300660: Rectangle03
+    3300662: Rectangle03 1
+    3300664: Rectangle04
+    3300666: Rectangle04 1
+    3300668: Rectangle05
+    3300670: Rectangle06
+    3300672: Rectangle06 1
+    3300674: Rectangle07
+    3300676: Rectangle07 1
+    3300678: Rectangle08
+    3300680: Rectangle08 1
+    3300682: Rectangle08 2
+    3300684: Rectangle100
+    3300686: Rectangle101
+    3300688: Rectangle102
+    3300690: Rectangle103
+    3300692: Rectangle104
+    3300694: Rectangle106
+    3300696: Rectangle107
+    3300698: Rectangle108
+    3300700: Rectangle109
+    3300702: Rectangle110
+    3300704: Rectangle111
+    3300706: Rectangle112
+    3300708: Rectangle113
+    3300710: Rectangle114
+    3300712: Rectangle115
+    3300714: Rectangle116
+    3300716: Rectangle117
+    3300718: Rectangle118
+    3300720: Rectangle119
+    3300722: Rectangle12
+    3300724: Rectangle120
+    3300726: Rectangle121
+    3300728: Rectangle122
+    3300730: Rectangle124
+    3300732: Rectangle125
+    3300734: Rectangle126
+    3300736: Rectangle127
+    3300738: Rectangle128
+    3300740: Rectangle129
+    3300742: Rectangle130
+    3300744: Rectangle131
+    3300746: Rectangle132
+    3300748: Rectangle133
+    3300750: Rectangle134
+    3300752: Rectangle135
+    3300754: Rectangle136
+    3300756: Rectangle137
+    3300758: Rectangle138
+    3300760: Rectangle14
+    3300762: Rectangle15
+    3300764: Rectangle16
+    3300766: Rectangle16 1
+    3300768: Rectangle17
+    3300770: Rectangle32
+    3300772: Rectangle33
+    3300774: Rectangle34
+    3300776: Rectangle94
+    3300778: Rectangle95
+    3300780: Rectangle96
+    3300782: Rectangle98
+    3300784: Rectangle99
+    3300786: Sphere01
+    3300788: Sphere02
+    3300790: Sphere03
+    3300792: Sphere04
+    3300794: Sphere05
+    3300796: Sphere06
+    3300798: Sphere07
+    3300800: Sphere07 1
+    3300802: Sphere08
+    3300804: Sphere08 1
+    3300806: Sphere09
+    3300808: Sphere10
+    3300810: Sphere11
+    3300812: Sphere12
+    3300814: Sphere12 1
+    3300816: Sphere13
+    3300818: Sphere13 1
+    3300820: Sphere14
+    3300822: Sphere14 1
+    3300824: Sphere15
+    3300826: Sphere16
+    3300828: Sphere17
+    3300830: Sphere18
+    3300832: Sphere19
+    3300834: Sphere20
+    3300836: Sphere21
+    3300838: Sphere22
+    3300840: Sphere23
+    3300842: Sphere24
+    3300844: Sphere25
+    3300846: Sphere26
+    3300848: Sphere27
+    3300850: Sphere28
+    3300852: Sphere29
+    3300854: Sphere30
+    3300856: Sphere31
+    3300858: Sphere32
+    3300860: Sphere33
+    3300862: Sphere34
+    3300864: Sphere35
+    3300866: Sphere36
+    3300868: Sphere37
+    3300870: Sphere38
+    3300872: Sphere39
+    3300874: Sphere40
+    3300876: Sphere41
+    3300878: Sphere42
+    3300880: Sphere43
+    3300882: Sphere44
+    3300884: Sphere45
+    3300886: Sphere46
+    3300888: Sphere47
+    3300890: Sphere48
+    3300892: Sphere49
+    3300894: Sphere50
+    3300896: Sphere51
+    3300898: Sphere52
+    3300900: Sphere53
+    3300902: Sphere54
+    3300904: Sphere55
+    3300906: Sphere56
+    3300908: Text01
+    3300910: Text03
+    3300912: Text04
+    3300914: Text05
+    3300916: Text06
+    3300918: Torus03
+    4300000: ______
+    4300002: ___
+    4300004: ___3
+    4300006: ______
+    4300008: _________
+    4300010: ______
+    4300012: ______1
+    4300014: ___
+    4300016: ___02
+    4300018: Circle23
+    4300020: Circle24
+    4300022: Circle25
+    4300024: Circle29
+    4300026: Circle27
+    4300028: Circle28
+    4300030: Circle26
+    4300032: Circle22
+    4300034: Circle31
+    4300036: Circle12
+    4300038: Circle13
+    4300040: Circle14
+    4300042: Circle15
+    4300044: Circle16
+    4300046: Circle17
+    4300048: Circle18
+    4300050: Circle19
+    4300052: Circle21
+    4300054: Circle06
+    4300056: Circle09
+    4300058: Circle08
+    4300060: Circle07
+    4300062: Circle04
+    4300064: Circle05
+    4300066: Circle10
+    4300068: Circle11
+    4300070: Circle01
+    4300072: Box23
+    4300074: Rectangle111
+    4300076: Rectangle112
+    4300078: Rectangle113
+    4300080: Rectangle114
+    4300082: Rectangle94
+    4300084: Rectangle95
+    4300086: Rectangle96
+    4300088: Rectangle98
+    4300090: Rectangle99
+    4300092: Rectangle100
+    4300094: Rectangle101
+    4300096: Rectangle102
+    4300098: Rectangle103
+    4300100: DCV01
+    4300102: Rectangle106
+    4300104: Rectangle107
+    4300106: Rectangle108
+    4300108: Rectangle109
+    4300110: Rectangle110
+    4300112: Rectangle115
+    4300114: Box21
+    4300116: Box22
+    4300118: Rectangle104
+    4300120: Box03
+    4300122: Box08
+    4300124: Box10
+    4300126: Box09
+    4300128: Box07
+    4300130: Box05
+    4300132: Box100
+    4300134: Box99
+    4300136: Box25
+    4300138: Box04
+    4300140: Rectangle03
+    4300142: Rectangle04
+    4300144: Rectangle05
+    4300146: Box01
+    4300148: Line01
+    4300150: Rectangle06
+    4300152: Rectangle01
+    4300154: Rectangle07
+    4300156: Line03
+    4300158: Line06
+    4300160: Line07
+    4300162: Text01
+    4300164: Rectangle08
+    4300166: Text03
+    4300168: Text04
+    4300170: Rectangle02
+    4300172: ChamferCyl02
+    4300174: ChamferBox34
+    4300176: Cylinder10
+    4300178: Cylinder09
+    4300180: Cylinder08
+    4300182: Cylinder07
+    4300184: Text05
+    4300186: ChamferBox33
+    4300188: _________11111
+    4300190: Box105
+    4300192: Box33
+    4300194: Box36
+    4300196: Box37
+    4300198: Box38
+    4300200: Box42
+    4300202: Box43
+    4300204: Sphere31
+    4300206: ChamferBox31
+    4300208: Arc12
+    4300210: Arc11
+    4300212: Arc10
+    4300214: ChamferBox29
+    4300216: ChamferBox30
+    4300218: Arc13
+    4300220: ChamferBox32
+    4300222: Box49
+    4300224: Box46
+    4300226: Box44
+    4300228: Box50
+    4300230: Line83
+    4300232: Rectangle06
+    4300234: Object11
+    4300236: Box13
+    4300238: Object12
+    4300240: Box106
+    4300242: Object13
+    4300244: Box107
+    4300246: Object14
+    4300248: Box108
+    4300250: Object15
+    4300252: Box109
+    4300254: Object16
+    4300256: Box110
+    4300258: Line09
+    4300260: Line10
+    4300262: Line11
+    4300264: Rectangle08
+    4300266: Cylinder01
+    4300268: obj_01
+    4300270: obj_02
+    4300272: obj_03
+    4300274: obj_04
+    4300276: obj_06
+    4300278: obj_04
+    4300280: obj_05
+    4300282: obj_03
+    4300284: obj_07
+    4300286: obj_01
+    4300288: obj_02
+    4300290: obj_01
+    4300292: obj_04
+    4300294: obj_01
+    4300296: obj_02
+    4300298: obj_03
+    4300300: obj_01
+    4300302: obj_02
+    4300304: obj_05
+    4300306: obj_04
+    4300308: obj_06
+    4300310: obj_07
+    4300312: obj_08
+    4300314: obj_03
+    4300316: Cylinder23
+    4300318: Cylinder24
+    4300320: Cylinder25
+    4300322: Object24
+    4300324: Circle17
+    4300326: Cylinder26
+    4300328: Torus03
+    4300330: Line07
+    4300332: Cylinder28
+    4300334: Cylinder29
+    4300336: Cylinder30
+    4300338: Cylinder27
+    4300340: Sphere06
+    4300342: Rectangle16
+    4300344: Rectangle12
+    4300346: Rectangle04
+    4300348: Rectangle07
+    4300350: Rectangle08
+    4300352: Rectangle15
+    4300354: Rectangle03
+    4300356: Circle52
+    4300358: Sphere10
+    4300360: Circle18
+    4300362: Sphere09
+    4300364: Ellipse01
+    4300366: Sphere11
+    4300368: Box01
+    4300370: Box02
+    4300372: Circle58
+    4300374: Box05
+    4300376: Object04
+    4300378: Box06
+    4300380: Line02
+    4300382: Box04
+    4300384: Object01
+    4300386: Box03
+    4300388: Circle10
+    4300390: Rectangle17
+    4300392: Rectangle16
+    4300394: Rectangle32
+    4300396: Sphere02
+    4300398: Object03
+    4300400: Rectangle14
+    4300402: Object17
+    4300404: Object18
+    4300406: Object19
+    4300408: Object21
+    4300410: Object22
+    4300412: Rectangle137
+    4300414: Rectangle138
+    4300416: Line757
+    4300418: ___257
+    4300420: ___258
+    4300422: ___259
+    4300424: ___260
+    4300426: ___261
+    4300428: ___271
+    4300430: ___272
+    4300432: ___313
+    4300434: ___314
+    4300436: ___315
+    4300438: ___316
+    4300440: ___317
+    4300442: ___343
+    4300444: ___344
+    4300446: ___345
+    4300448: ___347
+    4300450: ___348
+    4300452: ___349
+    4300454: ___350
+    4300456: ___351
+    4300458: ___431
+    4300460: ___432
+    4300462: ___433
+    4300464: ___434
+    4300466: ___435
+    4300468: ___436
+    4300470: ___437
+    4300472: ___438
+    4300474: ___439
+    4300476: ___440
+    4300478: ___441
+    4300480: ___442
+    4300482: ___443
+    4300484: Line878
+    4300486: ___444
+    4300488: ___445
+    4300490: ___446
+    4300492: ___447
+    4300494: ___448
+    4300496: ___449
+    4300498: ___450
+    4300500: ___451
+    4300502: ___323
+    4300504: ___322
+    4300506: ___283
+    4300508: ___324
+    4300510: ___281
+    4300512: ___280
+    4300514: ___279
+    4300516: ___278
+    4300518: Ficus 1, Trunk 1
+    4300520: Ficus 1, Stem 1
+    4300522: Ficus 1, Leaf 1
+    4300524: Ficus 1, Stem 2
+    4300526: Ficus 1, Leaf 2
+    4300528: Ficus 1, Stem 3
+    4300530: Ficus 1, Leaf 3
+    4300532: Ficus 1, Stem 4
+    4300534: Ficus 1, Leaf 4
+    4300536: Ficus 1, Stem 5
+    4300538: Ficus 1, Leaf 5
+    4300540: Ficus 1, Stem 6
+    4300542: Ficus 1, Leaf 6
+    4300544: Ficus 1, Stem 7
+    4300546: Ficus 1, Leaf 7
+    4300548: Ficus 1, Stem 8
+    4300550: Ficus 1, Leaf 8
+    4300552: Ficus 1, Stem 9
+    4300554: Ficus 1, Leaf 9
+    4300556: Ficus 1, Stem 10
+    4300558: Ficus 1, Leaf 10
+    4300560: Ficus 1, Stem 11
+    4300562: Ficus 1, Leaf 11
+    4300564: Ficus 1, Stem 12
+    4300566: Ficus 1, Leaf 12
+    4300568: Ficus 1, Stem 13
+    4300570: Ficus 1, Leaf 13
+    4300572: Ficus 1, Stem 14
+    4300574: Ficus 1, Leaf 14
+    4300576: Ficus 1, Stem 15
+    4300578: Ficus 1, Leaf 15
+    4300580: Ficus 1, Stem 16
+    4300582: Ficus 1, Leaf 16
+    4300584: Ficus 1, Stem 17
+    4300586: Ficus 1, Leaf 17
+    4300588: Ficus 1, Stem 18
+    4300590: Ficus 1, Leaf 18
+    4300592: Ficus 1, Trunk 2
+    4300594: Ficus 1, Stem 21
+    4300596: Ficus 1, Leaf 21
+    4300598: Ficus 1, Stem 23
+    4300600: Ficus 1, Leaf 23
+    4300602: Ficus 1, Stem 25
+    4300604: Ficus 1, Leaf 25
+    4300606: Ficus 1, Stem 27
+    4300608: Ficus 1, Leaf 27
+    4300610: Ficus 1, Stem 20
+    4300612: Ficus 1, Leaf 20
+    4300614: Ficus 1, Stem 29
+    4300616: Ficus 1, Leaf 29
+    4300618: Ficus 1, Stem 31
+    4300620: Ficus 1, Leaf 31
+    4300622: Ficus 1, Stem 26
+    4300624: Ficus 1, Leaf 26
+    4300626: Ficus 1, Stem 19
+    4300628: Ficus 1, Leaf 19
+    4300630: Ficus 1, Stem 28
+    4300632: Ficus 1, Leaf 28
+    4300634: Ficus 1, Stem 22
+    4300636: Ficus 1, Leaf 22
+    4300638: Ficus 1, Stem 24
+    4300640: Ficus 1, Leaf 24
+    4300642: Ficus 1, Trunk 3
+    4300644: Ficus 1, Stem 30
+    4300646: Ficus 1, Leaf 30
+    4300648: ______01
+    4300650: ___01
+    4300652: Apple Red Delicious Bottom02
+    4300654: Apple Red Delicious Stem02
+    4300656: Apple Red Delicious02
+    4300658: Cherry Bing Stem02
+    4300660: Cherry Bing02
+    4300662: Cherry Bing03
+    4300664: Cherry Bing Stem03
+    4300666: Line05
+    4300668: Box14
+    4300670: Line881
+    4300672: Line342
+    4300674: Sphere01
+    4300676: Sphere07
+    4300678: Sphere08
+    4300680: Sphere07
+    4300682: Sphere08
+    4300684: Sphere12
+    4300686: Sphere13
+    4300688: Sphere14
+    4300690: Sphere12
+    4300692: Sphere13
+    4300694: Sphere14
+    4300696: Sphere15
+    4300698: Sphere16
+    4300700: Sphere17
+    4300702: Sphere18
+    4300704: Sphere19
+    4300706: Sphere20
+    4300708: Sphere21
+    4300710: Sphere22
+    4300712: Sphere23
+    4300714: Sphere24
+    4300716: Sphere25
+    4300718: Sphere26
+    4300720: Sphere27
+    4300722: Sphere28
+    4300724: Sphere29
+    4300726: Sphere30
+    4300728: Sphere32
+    4300730: Sphere33
+    4300732: Sphere34
+    4300734: Sphere35
+    4300736: Sphere36
+    4300738: Sphere37
+    4300740: Sphere38
+    4300742: Sphere39
+    4300744: Sphere40
+    4300746: Sphere41
+    4300748: Sphere42
+    4300750: Sphere43
+    4300752: Sphere44
+    4300754: Sphere45
+    4300756: Sphere46
+    4300758: Sphere47
+    4300760: Sphere48
+    4300762: Sphere49
+    4300764: Sphere50
+    4300766: Sphere51
+    4300768: Sphere52
+    4300770: Sphere53
+    4300772: Sphere54
+    4300774: Sphere55
+    4300776: Sphere56
+    4300778: ___04
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

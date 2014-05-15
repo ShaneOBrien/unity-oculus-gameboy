@@ -1,0 +1,84 @@
+-------------------------------------------------------------------------
+Takohi unityGB (Unity3+4)
+(C)opyright 2014 Takohi 
+[contact@takohi.com]
+-------------------------------------------------------------------------
+
+INSTALLATION FROM UNITY ASSET STORE
+
+After you download and import this package from the Unity Asset Store, this product will be automatically be installed.
+
+After importing is complete, you will be ready to go.
+
+Documentation and source can be found here: 
+https://bitbucket.org/takohi/unitygb
+
+-------------------------------------------------------------------------
+
+Examples
+
+in  [Project] /unityGB/Scenes/ you will find one example.
+
+-------------------------------------------------------------------------
+
+Demo
+
+You can try a demo to run on your internet browser:
+http://www.takohi.com/data/unity/unitygb/
+
+-------------------------------------------------------------------------
+
+Tutorial
+
+You can find a tutorial at the following url to learn how to use unityGB:
+https://bitbucket.org/takohi/unitygb/wiki/How%20to%20use%20unityGB
+
+-------------------------------------------------------------------------
+
+PACKAGE STRUCTURE
+
+ [Project] unityGB/Scripts - unityGB Scripts
+
+ [Project] unityGB/Scenes - unityGB Demo Scenes
+
+-------------------------------------------------------------------------
+
+UPDATE
+
+v0.2, 2014-05-07
+
+    Audio
+    RTC
+    Save
+
+v0.11, 2014-03-27
+
+    Compatibility with cartridge MC3 and MBC5
+
+v0.1, 2014-03-27
+
+    Initial version
+
+-------------------------------------------------------------------------
+
+LICENSE
+
+unityGB is free software; you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published 
+by the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+unityGB is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ 
+ -------------------------------------------------------------------------
+
+Thanks for your interest in our components,
+
+	The Takohi Team.
+
