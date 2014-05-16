@@ -1,4 +1,4 @@
-unity-oculus-gameboy
+VRGB
 ====================
 
 Read the wiki to see what needs to be done: https://github.com/ShaneOBrien/unity-oculus-gameboy/wiki
